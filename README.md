@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parrymittal second time
+- 👋 Hi, I’m @parrymittal third time
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
